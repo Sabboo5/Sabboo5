@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Sabona Misgana
+Welcome to my GitHub profile!
 
-<!--
-**Sabboo5/Sabboo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Learning Full Stack Development
+- 💻 Passionate about building AI and Web Apps
+- 📫 Reach me at: sabona@example.com
 
-Here are some ideas to get you started:
+## Skills
+- React, Next.js, Node.js, MongoDB
+- Python, TensorFlow
+- Tailwind CSS, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [AI-Driven Turisma](https://github.com/Sabboo5/AI-Driven-Turisma)
+- [Hospital Management System](https://github.com/Sabboo5/Hospital-system)
+
+## GitHub Stats
+![Sabona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=radical)
