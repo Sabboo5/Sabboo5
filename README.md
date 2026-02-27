@@ -1,8 +1,15 @@
-# 👋 Hi, I'm Sabona Misgana
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Sabona Misgana</h1>
 
-### 🚀 Full Stack Developer | Building Scalable & AI-Driven Web Applications
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;Clean+Code+Advocate;Always+Learning+New+Technologies" />
+  </a>
+</h3>
 
-<p align="left">
+---
+
+<p align="center">
   <a href="mailto:sebonamisgana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sebonamisgana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -16,89 +23,86 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I’m a passionate **Full Stack Developer** focused on building modern, scalable, and secure web applications.
-
-I enjoy working with:
-- 🔐 Authentication & Role-Based Systems
-- ⚡ REST APIs & Real-Time Applications
-- 🧩 Clean Architecture & Maintainable Code
-- 🤖 AI-integrated platforms
-- 📊 Data-driven web systems
-
-I build real-world systems that solve practical problems.
+- 💻 Full Stack Developer focused on scalable systems  
+- 🔐 Passionate about Authentication & Role-Based Architectures  
+- 🤖 Interested in AI-powered applications  
+- ⚡ Love building real-world problem-solving systems  
+- 🌍 Based in Ethiopia  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Angular  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,angular" />
+</p>
 
 ### ⚙ Backend
-Node.js • Express.js • FastAPI • NestJS  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs" />
+</p>
 
 ### 🗄 Database
-MongoDB • PostgreSQL • MySQL • Prisma  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+</p>
 
 ### 🚀 DevOps & Tools
-Docker • Nginx • PM2 • Vercel • Git • Postman • Swagger  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,vercel,postman" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧩 Job Matching Platform
-A smart job-matching system that connects job seekers with employers using filtering and recommendation logic.  
-**Tech:** React, Node.js, MongoDB  
+🔹 **Job Matching Platform**  
+Smart job-connection system with filtering & matching logic.
+
+🔹 **E-Commerce Platform**  
+Complete shopping system with authentication, cart, and order processing.
+
+🔹 **Student Clearance Management System**  
+Digital workflow approval system for universities.
+
+🔹 **Hospital Management System**  
+Role-based secure hospital system with patient & appointment management.
+
+🔹 **Social Media App**  
+Real-time platform with posts, comments & user interaction.
+
+🔹 **Expense Tracker**  
+Financial tracking app with reporting & analytics.
 
 ---
 
-### 🛒 E-Commerce Platform
-A full-featured online shopping system with product management, cart, authentication, and order processing.  
-**Tech:** React, Express.js, MongoDB  
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabboo5&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-### 🎓 Student Clearance Management System
-A digital clearance workflow system that allows students and departments to manage approval processes efficiently.  
-**Tech:** Node.js, Express, MongoDB  
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabboo5&theme=radical"/>
+</p>
 
 ---
 
-### 🏥 Hospital Management System
-A complete hospital system with authentication, role-based access control, patient records, and appointment management.  
-**Tech:** Node.js, TypeScript, MongoDB  
+## 🧠 Current Focus
+
+- Building production-ready full stack applications  
+- Improving backend architecture  
+- Integrating AI into web platforms  
+- Writing clean, maintainable code  
 
 ---
 
-### 🌐 Social Media App
-A real-time social platform with authentication, posts, likes, comments, and user interactions.  
-**Tech:** React, Node.js, Socket.io  
-
----
-
-### 💰 Expense Tracker
-A financial tracking application that allows users to record expenses, analyze spending, and generate reports.  
-**Tech:** React, Node.js, MongoDB  
-
----
-
-## 📊 GitHub Stats
-
-![Sabona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabboo5&layout=compact&theme=radical)
-
----
-
-## 🎯 Current Focus
-- Building scalable full-stack systems
-- Improving backend architecture design
-- AI integration into real-world applications
-- Writing cleaner and more maintainable code
-
----
-
-### ✨ “Consistency beats motivation.”
+<h3 align="center">✨ "Consistency beats motivation."</h3>
