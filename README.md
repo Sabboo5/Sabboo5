@@ -1,6 +1,6 @@
 <!-- ================= MODERN HEADER ================= -->
 
-<h1 align="center">⚡ Sabona Misgana ⚡</h1>
+<h1 align="center">👨‍💻 ⚡ Sabona Misgana ⚡</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Focused+Engineer;Scalable+Backend+Architect;Building+Modern+Systems" />
