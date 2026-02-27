@@ -24,34 +24,44 @@
 
 ---
 
-# 🧠 Who I Am
+## 🧠 About Me
 
-```diff
-+ Full Stack Developer building production-ready systems
-+ Focused on scalable backend architecture
-+ Passionate about AI-driven applications
-+ Strong believer in clean & maintainable code
-```
-
-I design and build systems meant to scale — not just demo projects.
+I am a Full Stack Developer focused on building scalable, secure, and production-ready systems.  
+I enjoy designing clean backend architectures, integrating AI features, and solving real-world problems through software.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,mongodb,postgres,docker,git" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
+
+### 🧠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### ⚙ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
 
 ---
 
-# 🏗 Systems I Built
+## 🏗 Systems I Built
 
 ### 🧩 Job Matching Platform
 Intelligent job-to-candidate matching system with role-based authentication and scalable API structure.
 
 ### 🛒 E-Commerce Platform
-Complete online shopping system with secure login, product management, cart, and order processing.
+Full online shopping system with secure login, product management, cart, and order processing.
 
 ### 🎓 Student Clearance Management System
 Digital approval workflow platform designed to streamline institutional clearance processes.
@@ -63,29 +73,28 @@ Secure role-based hospital system managing patients, appointments, and administr
 Real-time social platform featuring posts, comments, and live user interaction.
 
 ### 💰 Expense Tracker
-Personal finance tracking system with reporting and expense analytics dashboard.
+Personal finance tracking system with reporting and analytics dashboard.
 
 ---
 
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabboo5&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabboo5&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabboo5&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Sabboo5&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - Building scalable backend systems  
 - Improving system architecture  
