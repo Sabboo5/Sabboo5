@@ -59,19 +59,19 @@ I focus on **clean code, high performance backend architectures, and intuitive f
 
 <div align="center">
 
-### 🧩 [Job Matching Platform](https://github.com/Sabboo5/job-matching-platform)
+### 🧩 [Job Matching Platform](https://github.com/Sabboo5/Job_match)
 Smart recruitment system connecting candidates & employers with role-based auth and scalable APIs.  
 
-### 🛒 [E-Commerce Platform](https://github.com/Sabboo5/e-commerce-platform)
+### 🛒 [E-Commerce Platform](https://github.com/Sabboo5/e-commerce)
 Full shopping system with secure login, product management, cart, and order workflow.  
 
-### 🎓 [Student Clearance Management System](https://github.com/Sabboo5/student-clearance-managment-system)
+### 🎓 [Student Clearance Management System](https://github.com/Sabboo5/student-clearance-system)
 Automated approval workflow platform for institutional clearance.  
 
-### 🏥 [Hospital Management System](https://github.com/Sabboo5/hospital-management-system)
+### 🏥 [Hospital Management System](https://github.com/Sabboo5/Hospital-system)
 Secure medical system handling patients, appointments, and administrative workflows.  
 
-### 🌐 [Social Media App](https://github.com/Sabboo5/social-media-app)
+### 🌐 [Social Media App](https://github.com/Sabboo5/social_app)
 Real-time interactive platform with posts, comments, and WebSocket communication.  
 
 ### 💰 [Expense Tracker](https://github.com/Sabboo5/expense-tracker)
