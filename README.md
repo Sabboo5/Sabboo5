@@ -20,12 +20,7 @@
   <a href="https://github.com/Sabboo5">
     <img src="https://img.shields.io/badge/GitHub-Sabboo5-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <a href="https://www.linkedin.com/in/sebona-misgana">
-    <img src="https://img.shields.io/badge/LinkedIn-Sabona%20Misgana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Sabboo5">
-    <img src="https://img.shields.io/badge/Twitter-@Sabboo5-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+ 
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-FF69B4?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </p>
 
@@ -112,15 +107,7 @@ Personal finance tracking app with analytics and reporting dashboards.
 
 ---
 
-## 🌟 Extra Modern Enhancements
 
-- ✨ Neon **animated dividers** between sections  
-- 💫 Animated **project cards with emojis**  
-- 📸 Portfolio **preview GIFs/screenshots** (add images manually if you like)  
-- 🧮 Visitor counter & social media badges  
-- 💼 **“Open to Work” glowing badge**  
-
----
 
 ## 🎯 Current Focus
 
