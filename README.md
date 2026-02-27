@@ -1,4 +1,4 @@
-<!-- ================= MODERN HEADER ================= -->
+<!-- ================= ULTRA-MODERN HEADER ================= -->
 
 <h1 align="center">👨‍💻 ⚡ Sabona Misgana ⚡</h1>
 
@@ -59,23 +59,23 @@ I focus on **clean code, high performance backend architectures, and intuitive f
 
 <div align="center">
 
-### 🧩 [Job Matching Platform](https://github.com/Sabboo5/Job_match)
-Smart recruitment system connecting candidates & employers with role-based auth and scalable APIs.  
+### 🧩 <a href="https://github.com/Sabboo5/Job_match">Job Matching Platform</a>
+Smart recruitment system connecting candidates & employers with **role-based authentication** and **scalable APIs**.
 
-### 🛒 [E-Commerce Platform](https://github.com/Sabboo5/e-commerce)
-Full shopping system with secure login, product management, cart, and order workflow.  
+### 🛒 <a href="https://github.com/Sabboo5/e-commerce">E-Commerce Platform</a>
+Full shopping system with secure login, product management, cart, and order workflow.
 
-### 🎓 [Student Clearance Management System](https://github.com/Sabboo5/student-clearance-system)
-Automated approval workflow platform for institutional clearance.  
+### 🎓 <a href="https://github.com/Sabboo5/student-clearance-system">Student Clearance Management System</a>
+Automated approval workflow platform for institutional clearance.
 
-### 🏥 [Hospital Management System](https://github.com/Sabboo5/Hospital-system)
-Secure medical system handling patients, appointments, and administrative workflows.  
+### 🏥 <a href="https://github.com/Sabboo5/Hospital-system">Hospital Management System</a>
+Secure medical system handling patients, appointments, and administrative workflows.
 
-### 🌐 [Social Media App](https://github.com/Sabboo5/social_app)
-Real-time interactive platform with posts, comments, and WebSocket communication.  
+### 🌐 <a href="https://github.com/Sabboo5/social_app">Social Media App</a>
+Real-time interactive platform with posts, comments, and WebSocket communication.
 
-### 💰 [Expense Tracker](https://github.com/Sabboo5/expense-tracker)
-Personal finance tracking app with analytics and reporting dashboards.  
+### 💰 <a href="https://github.com/Sabboo5/expense-tracker">Expense Tracker</a>
+Personal finance tracking app with analytics and reporting dashboards.
 
 </div>
 
@@ -107,16 +107,16 @@ Personal finance tracking app with analytics and reporting dashboards.
 
 ---
 
-<h3 align="center">⚡ Build • Innovate • Scale • Repeat ⚡</h3>
-
----
-
-## 💡 Extra Cool Enhancements You Can Add
+## 🌟 Extra Modern Enhancements
 
 - Neon **animated dividers** between sections  
 - Animated **project cards with hover effects**  
 - Portfolio **preview GIFs/screenshots**  
 - Visitor counter & social media badges  
 - “Open to Work” glowing badge  
+
+---
+
+<h3 align="center">⚡ Build • Innovate • Scale • Repeat ⚡</h3>
 
 ---
