@@ -1,55 +1,104 @@
-
 # 👋 Hi, I'm Sabona Misgana
 
-## Full Stack Developer | AI & Web Applications Enthusiast
+### 🚀 Full Stack Developer | Building Scalable & AI-Driven Web Applications
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabona@example.com)
-[![Phone](https://img.shields.io/badge/Phone-251900000000-blue?style=flat&logo=whatsapp&logoColor=white)](tel:+251900000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabona5)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sabboo5)
-
----
-
-### 🛠 About Me
-I'm a passionate **Full Stack Developer** from Ethiopia with hands-on experience building **AI-driven web applications** and robust backend systems. I enjoy exploring **modern web technologies, AI solutions, and software engineering best practices**.  
-
-**Highlighted Projects:**
-- 🌐 **AI-Driven Turisma** – Personalized travel platform for discovering Ethiopia.  
-- 🏥 **Hospital Management System** – Full-featured system with authentication, roles, and patient management.
+<p align="left">
+  <a href="mailto:sebonamisgana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sebonamisgana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+251936387211">
+    <img src="https://img.shields.io/badge/Phone-+251936387211-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sabboo5/">
+    <img src="https://img.shields.io/badge/GitHub-Sabboo5-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack
+## 🧠 About Me
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I’m a passionate **Full Stack Developer** focused on building modern, scalable, and secure web applications.
 
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+I enjoy working with:
+- 🔐 Authentication & Role-Based Systems
+- ⚡ REST APIs & Real-Time Applications
+- 🧩 Clean Architecture & Maintainable Code
+- 🤖 AI-integrated platforms
+- 📊 Data-driven web systems
 
-#### DevOps & Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-#### API Testing & Documentation
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+I build real-world systems that solve practical problems.
 
 ---
 
-### 🌟 GitHub Stats
-![Sabona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=radical)
+## 🛠 Tech Stack
+
+### 💻 Frontend
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Angular  
+
+### ⚙ Backend
+Node.js • Express.js • FastAPI • NestJS  
+
+### 🗄 Database
+MongoDB • PostgreSQL • MySQL • Prisma  
+
+### 🚀 DevOps & Tools
+Docker • Nginx • PM2 • Vercel • Git • Postman • Swagger  
+
+---
+
+## 📂 Featured Projects
+
+### 🧩 Job Matching Platform
+A smart job-matching system that connects job seekers with employers using filtering and recommendation logic.  
+**Tech:** React, Node.js, MongoDB  
+
+---
+
+### 🛒 E-Commerce Platform
+A full-featured online shopping system with product management, cart, authentication, and order processing.  
+**Tech:** React, Express.js, MongoDB  
+
+---
+
+### 🎓 Student Clearance Management System
+A digital clearance workflow system that allows students and departments to manage approval processes efficiently.  
+**Tech:** Node.js, Express, MongoDB  
+
+---
+
+### 🏥 Hospital Management System
+A complete hospital system with authentication, role-based access control, patient records, and appointment management.  
+**Tech:** Node.js, TypeScript, MongoDB  
+
+---
+
+### 🌐 Social Media App
+A real-time social platform with authentication, posts, likes, comments, and user interactions.  
+**Tech:** React, Node.js, Socket.io  
+
+---
+
+### 💰 Expense Tracker
+A financial tracking application that allows users to record expenses, analyze spending, and generate reports.  
+**Tech:** React, Node.js, MongoDB  
+
+---
+
+## 📊 GitHub Stats
+
+![Sabona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabboo5&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabboo5&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Focus
+- Building scalable full-stack systems
+- Improving backend architecture design
+- AI integration into real-world applications
+- Writing cleaner and more maintainable code
+
+---
+
+### ✨ “Consistency beats motivation.”
