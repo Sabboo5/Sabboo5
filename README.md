@@ -26,12 +26,7 @@
 
 ---
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=00FFFF&width=600&lines=✨+Modern+Developer+Portfolio+✨" />
-</p>
 
----
 
 ## 🧠 About Me
 
